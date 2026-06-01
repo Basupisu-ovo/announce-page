@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学校案内</title>
+
+    <link rel="stylesheet" type="text/css" href="学校案内アプリ.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+
+<body>
+    <!-- ヘッダー -->
+    <header id="header">
+        <div id="header_lavel">
+            <!-- 校章 -->
+            <img src="" alt="" id="header_img">
+            <div id="header_font">延岡高校案内ページ</div>
+        </div>
+    </header>
+
+    <!-- ホーム画面 -->
+    <div id="home" class="pageContents">
+
+        <!-- お知らせページ -->
+        <div id="homeAnnounce" class="homeContents">
+            <div id="announceCont">
+                <p id="announceFont">
+                    お知らせ
+                    <i class="fa-solid fa-bell"></i>
+                </p>
+                <table id="announce" class="homeTable">
+                    <tr class="announceTR">
+                        <th class="homeTH" id="announceDateHead">日付</th>
+                        <th class="homeTH" id="announceDetailHead">内容</th>
+                    </tr>
+                    <tr class="announceTR">
+                        <td class="announceDate">0/0</td>
+                        <td class="announceDetail">~~~</td>
+                    </tr>
+                    <tr class="announceTR">
+                        <td class="announceDate">0/0まで</td>
+                        <td class="announceDetail">~~~</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div id="scheduleCont">
+                <p id="scheduleFont">
+                    行事予定
+                    <i class="fa-solid fa-calendar"></i>
+                </p>
+
+                <table id="schedule" class="homeTable" >
+                    <tr class="scheduleTR">
+                        <th class="homeTH" id="scheduleDateHead">日付</th>
+                        <th class="homeTH" id="scheduleDetailHead">内容</th>
+                    </tr>
+                    <tr class="scheduleTR">
+                        <td class="scheduleDate">0/0</td>
+                        <td class="scheduleDetail">~~~</td>
+                    </tr>
+                    <tr class="scheduleTR">
+                        <td class="scheduleDate">00:00</td>
+                        <td class="scheduleDetail">~~~</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        
+        <div id="Buttons" class="homeContents">
+            <!-- ボタン1 -->
+            <button id="button1" class="SelectButton" type="button">
+                <i class="fa-solid fa-map"></i>
+                <span class="buttonTag">MAP</span>
+            </button>
+            <!-- ボタン2 -->
+            <button id="button2" class="SelectButton" type="button">
+                <i class="fa-solid fa-boxes-stacked"></i>
+                <span class="buttonTag">忘れ物</span>
+            </button>
+            <!-- ボタン3 -->
+            <button id="button3" class="SelectButton" type="button">
+                <i class="fa-solid fa-file-image"></i>
+                <span class="buttonTag">機能3</span>
+            </button>
+            <!-- ボタン4 -->
+            <button id="button4" class="SelectButton" type="button">
+                <i class="fa-solid fa-file-image"></i>
+                <span class="buttonTag">機能4</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- MAP画面 -->
+    <div id="map" class="pageContents">
+
+    </div>
+</body>
+</html>

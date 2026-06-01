@@ -1,0 +1,154 @@
+#header{
+    height: 100px;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    background: #b4003f;
+}
+#header_lavel{
+    height: auto;
+    width: auto;
+}
+#header_img{
+    size: 10px;
+}
+#header_font{
+    color: #fff;
+    font-size: 30px;
+    vertical-align: middle;
+}
+
+/* ホーム画面 */
+body{
+    margin: 0;
+    padding: 0;
+}
+#home{
+    position: relative;
+    display: flex;
+    background: #f5fff5;
+}
+.pageContents{
+    content-visibility: hidden;
+}
+
+.isActive{
+    content-visibility: visible;
+}
+/* お知らせページ */
+#homeAnnounce{
+    padding: 12px 24px;
+    
+    width: 500px;
+    height: 470px;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    margin: 30px 20px;
+}
+
+.homeTable{
+    width: 100%;
+    position: relative;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin-left: 10px;
+}
+#announce{
+    padding-bottom: 10px;
+}
+#announceFont,#scheduleFont{
+    font-size: 35px;
+    margin: 10px 0px;
+    color: #337;
+}
+#scheduleCont{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.announceTR{
+    line-height: 30px;
+}
+.homeTH{
+    border-bottom: 1px solid #337;
+    color: #337;
+    text-align: left;
+    
+}
+#announceDateHead,#scheduleDateHead{
+    width: 20%;
+}
+#announceDetailHead,#scheduleDetailHead{
+    width: 75%;
+    padding-left: 3%;
+}
+.announceDate,.announceDetail,.scheduleDate,.scheduleDetail{
+    border-bottom: 1px dashed #337;
+    color: #337;
+    font-size: 20px;
+}
+.announceDate,.scheduleDate{
+    width: 20%;
+}
+.announceDetail,.scheduleDetail{
+    width: 75%;
+    padding-left: 3%;
+}
+
+
+/* 選択ボタン */
+#Buttons{
+    margin: 30px 30px;
+    margin-left: 90px;
+
+    width: 500px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.SelectButton{
+    width: 100%;
+    height: 20%;
+
+    font-size: 50px;
+
+    position: relative;
+
+    border-radius: 12px;
+    border: none;
+    color: #fff;
+}
+
+.ButtonImg{
+    width: 70px;
+}
+
+#button1{
+    background: #26C43F;
+}
+#button1:active{
+    background: #15A02C;
+}
+
+#button2{
+    background: #FFCD38;
+}
+#button2:active{
+    background: #FCBA04;
+}
+
+#button3{
+    background: #F03246;
+}
+#button3:active{
+    background: #D60A1D;
+}
+
+#button4{
+    background: #43CAF1;
+}
+#button4:active{
+    background: #14B5E1;
+}
