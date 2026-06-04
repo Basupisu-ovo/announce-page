@@ -1,13 +1,16 @@
 #header{
-    height: 100px;
+    height: 85px;
     width: auto;
     margin: 0;
-    padding: 0;
+    padding: 15px 0 0 0;
     background: #b4003f;
+    position: relative;
+    text-align: center;
 }
 #header_lavel{
     height: auto;
     width: auto;
+    display: inline;
 }
 #header_img{
     size: 10px;
@@ -15,8 +18,40 @@
 #header_font{
     color: #fff;
     font-size: 30px;
+    margin-left: 12px;
     vertical-align: middle;
 }
+#headerButtons{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+
+    position: absolute;
+    left: 470px;
+    bottom: 5px;
+}
+.headerButton{
+    height: 50px;
+    background: none;
+    border: none;
+}
+.headerButton :hover{
+    cursor: pointer;
+}
+
+.homeIcon{
+    font-size: 20px;
+    color: #fff;
+}
+.headerButton{
+    font-family: Verdana;
+    content-visibility: hidden;
+}
+#toHomeButton{
+    margin-left: 340px;
+    content-visibility: visible;
+}
+
 
 /* ホーム画面 */
 body{
@@ -121,6 +156,10 @@ body{
     color: #fff;
 }
 
+.SelectButton :hover{
+    cursor: pointer;
+}
+
 .ButtonImg{
     width: 70px;
 }
@@ -151,4 +190,23 @@ body{
 }
 #button4:active{
     background: #14B5E1;
+}
+
+/* MAP */
+
+/* 選択 */
+#searchSelect{
+    margin: 12px 24px;
+}
+.classroomsSel{
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+
+    display: inline-block;
+    width: 250px; 
+    margin: 1em 0; 
+    padding: 0.6em 1.5em 0.6em 0.5em;
+
+    background: #eaeaea;
 }

@@ -13,14 +13,33 @@
     <!-- ヘッダー -->
     <header id="header">
         <div id="header_lavel">
-            <!-- 校章 -->
-            <img src="" alt="" id="header_img">
-            <div id="header_font">延岡高校案内ページ</div>
+            <div id="header_font">
+                <i class="fa-solid fa-school"></i>
+                延岡高校案内ページ
+            </div>
+            
         </div>
+        <div id="headerButtons">
+            <button id="toHomeButton" class="headerButton" type="button">
+                <i class="fa-solid fa-house homeIcon"></i>
+                <span class="homeIcon headerButtonFont">
+                HOME
+                </span>
+            </button>
+
+            <button id="mapButton" class="headerButton" type="button">
+                <i class="fa-solid fa-chevron-right homeIcon"></i>
+                <span class="homeIcon headerButtonFont">
+                    MAP
+                </span>
+            </button>
+        </div>
+        
+        
     </header>
 
     <!-- ホーム画面 -->
-    <div id="home" class="pageContents isActive">
+    <div id="home" class="pageContents">
 
         <!-- お知らせページ -->
         <div id="homeAnnounce" class="homeContents">
@@ -93,8 +112,24 @@
     </div>
 
     <!-- MAP画面 -->
-    <div id="map" class="pageContents">
+    <div id="map" class="pageContents isActive">
+        <div id="searchSelect">
+            <label for="firstSelect">1.教室を選択する</label>
+            <select name="firstSelect" id="firstSelect" class="classroomsSel">
+                <option value="" disabled selected>分類を選択してください</option>
+                <option value="homerooms">教室</option>
+                <option value="specialRooms">特別教室</option>
+                <option value="otherRooms">その他</option>
+            </select>
 
+            <select name="secondSelect" id="secondSelect" class="classroomsSel" disabled>
+                <option value="" disabled selected>
+                    先に種類を選択してください
+                </option>
+            </select>
+        </div>
     </div>
+
+    <script src="announce.js"></script>
 </body>
 </html>
