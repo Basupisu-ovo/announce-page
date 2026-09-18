@@ -10,9 +10,9 @@ const homeButton = document.getElementById("toHomeButton")
 const mapButton = document.getElementById("mapButton")
 
 homeButton.addEventListener("click",()=>{
-    home.classList.add("isActive")
-    map.classList.remove("isActive")
-    mapButton.classList.remove("isActive")
+    home.style.display = "flex"
+    map.style.display = "none"
+    mapButton.style.display = "none"
 })
 
 // MAPページへ
@@ -25,10 +25,9 @@ const secondSelect = document.getElementById("secondSelect")
 let subCategory = secondSelect.value
 
 toMapButton.addEventListener("click",()=>{
-
-    home.classList.remove("isActive")
-    map.classList.add("isActive")
-    mapButton.classList.add("isActive")
+    home.style.display ="none"
+    map.style.display = "block"
+    mapButton.style.display = "block"
 
     // セレクトボックスを初期化する
     secondSelect.length = 0
@@ -48,9 +47,9 @@ toMapButton.addEventListener("click",()=>{
 // MAPアプリ
 // 教室検索用
 let classrooms = {
-    homerooms: ["1-1", "1-2", "1-3", "1-4", 1-5, 1-6],
-    specialRooms: ["事務室", "職員室", "書道室"],
-    otherRooms: ["体育館", "運動場", ""]
+    homerooms: ["1-1", "1-2", "1-3", "1-4", "1-5", "1-6"],
+    specialRooms: ["物理室", "音楽室", "書道室"],
+    otherRooms: ["体育館", "運動場","事務室", "職員室"]
 }
 
 

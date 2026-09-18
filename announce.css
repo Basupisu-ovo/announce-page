@@ -1,5 +1,15 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#app{
+    height: 100%;
+}
 #header{
-    height: 85px;
+    height: 10%;
     width: auto;
     margin: 0;
     padding: 15px 0 0 0;
@@ -18,7 +28,6 @@
 #header_font{
     color: #fff;
     font-size: 30px;
-    margin-left: 12px;
     vertical-align: middle;
 }
 #headerButtons{
@@ -45,37 +54,41 @@
 }
 .headerButton{
     font-family: Verdana;
-    content-visibility: hidden;
+    display: none;
 }
 #toHomeButton{
     margin-left: 340px;
-    content-visibility: visible;
+    display: inline;
+}
+
+/* ページ部分全適応 */
+.appParts{
+    background: #f5fff5;
+    height: 90%;
 }
 
 
 /* ホーム画面 */
-body{
-    margin: 0;
-    padding: 0;
-}
+
 #home{
     position: relative;
     display: flex;
     background: #f5fff5;
+    height: 90%;
 }
 .pageContents{
-    content-visibility: hidden;
+    display: none;
 }
 
 .isActive{
-    content-visibility: visible;
+    display: block;
 }
-/* お知らせページ */
+/* お知らせパージ */
 #homeAnnounce{
     padding: 12px 24px;
     
     width: 500px;
-    height: 470px;
+    height: 100%;
     display: flex;
     justify-content: start;
     flex-direction: column;
@@ -133,10 +146,10 @@ body{
 
 /* 選択ボタン */
 #Buttons{
-    margin: 30px 30px;
-    margin-left: 90px;
+    margin: 40px 30px;
+    margin-left: 120px;
 
-    width: 500px;
+    width: 40%;
 
     display: flex;
     flex-direction: column;
@@ -156,7 +169,7 @@ body{
     color: #fff;
 }
 
-.SelectButton :hover{
+.SelectButton:hover{
     cursor: pointer;
 }
 
@@ -193,6 +206,10 @@ body{
 }
 
 /* MAP */
+#map{
+    height: 90%;
+    width: 100%;
+}
 
 /* 選択 */
 #searchSelect{
