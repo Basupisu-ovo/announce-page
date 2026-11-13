@@ -1,0 +1,72 @@
+<svg width="2341" height="1608" viewBox="0 0 2341 1608" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="2341" height="1608" fill="#F5F5F5"/>
+<path id="Gym" d="M949.5 1195.5H1589.51V1607.38H949.5V1195.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="MartialArtsHall" d="M2015.5 1165.5H2340.26V1419.2H2015.5V1165.5Z" fill="#FDFFCC" stroke="black"/>
+<g id="1FNOR_bldg">
+<path id="1FNOR_bldg_2" d="M298 619.5H233.5H164V1208H0V395H298V619.5Z" fill="#E5E5E5"/>
+<path id="Stairs" d="M253.5 530.5H297.5V610.5H253.5V530.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_2" d="M90.5 1122.5V1078.5H157.5V1122.5H90.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Nurse&#39;sOffice" d="M0.5 1123.5H157.5V1207.5H0.5V1123.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="EducationalCounseling_room" d="M85.5 966.5H157.5V1044.5H85.5V966.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Study_roomB" d="M85.5 813.5H157.5V965.5H85.5V813.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Study_roomA" d="M85.5 682.5H157.5V812.5H85.5V682.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Principal&#39;sOffice" d="M85.8 613.5H157.101V681.461H85.8V613.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="AdministrativeOffice" d="M165.5 530.5H250.844V610.966H165.5V530.5Z" fill="#FDFFCC" stroke="black"/>
+</g>
+<g id="1FMID_bldg">
+<path id="1FMID_bldg_2" d="M416 176H546V1005H416V176Z" fill="#E5E5E5"/>
+<path id="Lecture_roomE" d="M473.5 849.5H544.8V934.707H473.5V849.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="2-2" d="M473.5 690.5H544.5V779.5H473.5V690.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="2-1" d="M473.5 600.5H544.5V689.5H473.5V600.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="CareerResources_room" d="M473.5 514.5H544.8V599.707H473.5V514.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="CareerCounseling_room" d="M473.5 300.5H544.5V437.5H473.5V300.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="CareerGuidanceOffice" d="M416.5 176.5H545.145V299.972H416.5V176.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Changing_room" d="M385.5 1051.5H561.353V1160.15H385.5V1051.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_3" d="M490.5 474.5H545.5V513.5H490.5V474.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_4" d="M490.5 809.5H545.5V848.5H490.5V809.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC_MID1" d="M321.5 792.5H392.5V934.5H321.5V792.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<path id="SchoolStore" d="M601.65 918.5H695.65V978.5H601.65V918.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Computer_room" d="M213.5 1045.5H374.91V1262.33H213.5V1045.5Z" fill="#FDFFCC" stroke="black"/>
+<g id="1FSOU_bldg">
+<path id="1FSOU_bldg_2" d="M846 173H986V1002H846V173Z" fill="#E5E5E5"/>
+<path id="2-3" d="M909.128 515.567H985.128V616.567H909.128V515.567Z" fill="#FDFFCC" stroke="black"/>
+<path id="SSHStaff_room" d="M845.5 173.5H985.5V372.5H845.5V173.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="2-4" d="M909.5 617.5H985.5V721.5H909.5V617.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="2-5" d="M909.5 722.5H985.5V826.5H909.5V722.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="2-6" d="M909.128 908.815H980.428V1001.05H909.128V908.815Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_5" d="M930.5 477.5H985.5V516.5H930.5V477.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_6" d="M925.5 868.5H980.5V907.5H925.5V868.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC_" d="M741.5 839.5H842.5V888.5H741.5V839.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="1FSpecialClassrooms_bldg">
+<path id="1FSpecialClassrooms_bldg_2" d="M1168 0L1314 0V1049H1168V0Z" fill="#E5E5E5"/>
+<path id="Chemistry_Lab" d="M1227.5 905.5H1313.9V1048.28H1227.5V905.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="ChemistryPrep_room" d="M1279.5 806.5H1313.5V903.5H1279.5V806.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="ChemistryStaff_room" d="M1279.5 806.5H1313.5V904.5H1279.5V806.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="HomeEconomicsStaff_room" d="M1227.5 144.5H1313.5V245.5H1227.5V144.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="ChemistryLecture_room" d="M1227.5 661.5H1313.9V804.276H1227.5V661.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="HomeEconomicsStorage" d="M1227.5 389.035H1313.9V531.811H1227.5V389.035Z" fill="#FDFFCC" stroke="black"/>
+<path id="Cooking_room" d="M1227.5 246.035H1313.9V388.811H1227.5V246.035Z" fill="#FDFFCC" stroke="black"/>
+<path id="HomeEconomics_room" d="M1227.5 0.5L1313.9 0.5V143.276H1227.5V0.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_7" d="M1227.5 903.5V848.5H1266.5V903.5H1227.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_8" d="M1231.5 574.5V532.5H1313.5V574.5H1231.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC__2" d="M1191.5 590.5H1313.5V646.5H1191.5V590.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="Corridor">
+<path d="M164 1041H211V1083H164V1041Z" fill="#D9D9D9"/>
+<path d="M188 1005H1133V1041H188V1005Z" fill="#D9D9D9"/>
+<path d="M294 438H416V534H294V438Z" fill="#D9D9D9"/>
+<path d="M548 438H844V514H548V438Z" fill="#D9D9D9"/>
+<path d="M1101 441H1133V1011H1101V441Z" fill="#D9D9D9"/>
+<path d="M985 826H1101V863H985V826Z" fill="#D9D9D9"/>
+<path d="M985 441H1101V517H985V441Z" fill="#D9D9D9"/>
+<path d="M1133 782H1168V817H1133V782Z" fill="#D9D9D9"/>
+<path d="M1133 478H1168V549H1133V478Z" fill="#D9D9D9"/>
+<path d="M1101 1041H1133L1133 1195H1101V1041Z" fill="#D9D9D9"/>
+<path d="M1133 1120H1860V1195H1133V1120Z" fill="#D9D9D9"/>
+<path d="M1748 1195H1860V1371H1748V1195Z" fill="#D9D9D9"/>
+<path d="M1860 1306H2015V1371H1860V1306Z" fill="#D9D9D9"/>
+<path d="M1590 1351H1860V1451H1590V1351Z" fill="#D9D9D9"/>
+</g>
+</svg>

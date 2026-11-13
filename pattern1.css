@@ -1,0 +1,354 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#app{
+    height: 100%;
+}
+#header{
+    height: 10%;
+    width: auto;
+    margin: 0;
+    padding: 15px 0 0 0;
+    background: #A82F22;
+    position: relative;
+    text-align: center;
+}
+#header_label{
+    height: auto;
+    width: auto;
+    display: inline;
+}
+
+#header_font{
+    color: #fff;
+    font-size: 30px;
+    vertical-align: middle;
+}
+#headerButtons{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+
+    position: absolute;
+    left: 470px;
+    bottom: 5px;
+}
+.headerButton{
+    height: 50px;
+    background: none;
+    border: none;
+    font-family: Verdana;
+    display: none;
+}
+.headerButton :hover{
+    cursor: pointer;
+}
+
+.homeIcon{
+    font-size: 20px;
+    color: #fff;
+}
+
+#toHomeButton{
+    margin-left: 340px;
+    display: inline;
+}
+
+/* ページ部分全適応 */
+.appParts{
+    background: #FFFBF0;
+    height: 90%;
+}
+
+/* スタート画面 */
+
+/* スタート画面全体を真ん中に配置 */
+#start {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 20px; /* 要素同士の間隔を調整 */
+    padding: 20px;
+    box-sizing: border-box;
+    background: #FFFBF0;
+}
+
+/* .isActiveが付いている時だけ表示・中央配置する場合のクラス設定 */
+
+
+/* タイトルのデザイン */
+#Title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4A2E2B;
+    margin-bottom: 10px;
+}
+
+/* セレクトボックスのデザイン */
+#patternSelect {
+    width: 250px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #D4BFA9;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* ボタンのデザイン */
+#start button {
+    width: 250px;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #F29F4D;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#startButtons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+/* ボタンにマウスが乗ったときの効果 */
+#start button:hover {
+    background-color: #D88330;
+}
+
+
+/* ホーム画面 */
+
+#home{
+    position: relative;
+    display: flex;
+    background: #FFFBF0;
+    height: 90vh;
+}
+.pageContents{
+    display: none;
+}
+
+.isActive{
+    display: block;
+}
+/* お知らせページ */
+#homeAnnounce{
+    width: 500px;
+    padding: 12px;
+
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    margin: 30px 20px;
+}
+
+.homeTable{
+    width: 100%;
+    position: relative;
+    table-layout: fixed;
+    border-collapse: collapse;
+
+}
+#announce{
+    padding-bottom: 10px;
+}
+#announceFont,#scheduleFont{
+    font-size: 35px;
+    margin: 10px 0px;
+    color: #4A2E2B;
+}
+.newsCont{
+    background: #EEDEC9;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+#scheduleCont{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.announceTR,.scheduleTR{
+    line-height: 30px;
+    width: 100%;
+}
+
+.homeTH{
+    border-bottom: 1px solid #4A2E2B;
+    color: #4A2E2B;
+    text-align: left;
+    
+}
+#announceDateHead,#scheduleDateHead{
+    width: 20%;
+}
+#announceDetailHead,#scheduleDetailHead{
+    width: 70%;
+    padding-left: 3%;
+}
+.announceDate,.announceDetail,.scheduleDate,.scheduleDetail,.announceMore{
+    border-bottom: 1px dashed #4A2E2B;
+    color: #4A2E2B;
+    font-size: 20px;
+}
+
+.announceDetail,.scheduleDetail{
+    padding-left: 3%;
+}
+.announceMore{
+    height: 100%;
+    padding: 0;
+}
+.moreButton{
+    background: none;
+    border: none;
+    width: 100%;
+    height: 100%;
+    padding: 6px 0;
+}
+.fa-solid{
+    font-size: 18px;
+    color: #4A2E2B;
+}
+.moreButton:hover{
+    cursor: pointer;
+}
+
+#AnnContinueButton{
+    width: 30%;
+}
+
+
+#otherPlanBut,#otherAnnBut{
+    color: #4A2E2B;
+    font-size: 18px;
+    background: none;
+    border: none;
+}
+#otherPlanBut,#otherAnnBut:hover{
+    cursor: pointer;
+}
+#otherPlanBut:active,#otherAnnBut:active{
+    background: #E0CDB7;
+}
+
+
+/* 選択ボタン */
+#Buttons{
+    margin: 40px 30px;
+    margin-left: 120px;
+
+    width: 40%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.SelectButton{
+    width: 100%;
+    height: 20%;
+
+    font-size: 50px;
+
+    position: relative;
+
+    border-radius: 12px;
+    border: none;
+    color: #fff;
+}
+
+.SelectButton:hover{
+    cursor: pointer;
+}
+
+.ButtonImg{
+    width: 70px;
+}
+
+#button1{
+    background: #F29F4D;
+}
+#button1:active{
+    background: #D88330;
+}
+
+#button2{
+    background: #E3A730;
+}
+#button2:active{
+    background: #C78F1B;
+}
+
+#button3{
+    background: #C63F31;
+}
+#button3:active{
+    background: #A82F22;
+}
+
+#button4{
+    background: #F9A17A;
+}
+#button4:active{
+    background: #E0855E;
+}
+
+#detailDialog{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    border: none;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+#dialogDate{
+
+}
+
+/* MAP */
+#map{
+    height: 90%;
+    width: 100%;
+    background: #FFFBF0;
+}
+
+/* 選択 */
+#searchSelect{
+    margin: 12px 24px;
+}
+.classroomsSel{
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+
+    display: inline-block;
+    width: 250px; 
+    margin: 1em 0; 
+    padding: 0.6em 1.5em 0.6em 0.5em;
+
+    background: #EEDEC9;
+    border: 1px solid #D4BFA9;
+    color: #4A2E2B;
+}
+
+#maps{
+    display: flex;
+    flex-direction: row;
+}
+
+.schoolMaps{
+    width: 400px;
+    height: 400px;
+}

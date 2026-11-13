@@ -1,0 +1,40 @@
+<svg width="996" height="1048" viewBox="0 0 996 1048" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="996" height="1048" fill="#F5F5F5"/>
+<g id="3FNOR_bldg">
+<path id="3FNOR_bldg_2" d="M298 460H164V1047H0V238H298V460Z" fill="#E5E5E5"/>
+<path id="Stairs" d="M233.5 369.5H297.5V449.5H233.5V369.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_2" d="M90.5 961.5V917.5H157.5V961.5H90.5Z" fill="#FFAC11" stroke="black"/>
+<path id="ArtClass_room" d="M88.5 734.5H160.5V883.5H88.5V734.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="CalligraphyClass_room" d="M88.5 581.5H160.5V733.5H88.5V581.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Calligraphy_room" d="M88.5 450.5H160.5V580.5H88.5V450.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Study_roomC" d="M85.5 369.5H164.5V448.5H85.5V369.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Storage" d="M165.5 422.5H232.5V449.5H165.5V422.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="WC(Staff)" d="M0.5 884.5H47.5V961.5H0.5L0.5 884.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="3FMID_bldg">
+<path id="3FMID_bldg_2" d="M416 15L546 15V844H416V15Z" fill="#E5E5E5"/>
+<path id="3-4" d="M473.5 687.5H544.8V772.707H473.5V687.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="3-5" d="M473.5 529.5H544.5V618.5H473.5V529.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="3-6" d="M473.5 439.5H544.5V528.5H473.5V439.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Lecture_roomA" d="M473.5 353.5H544.8V438.707H473.5V353.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="SecondaryMusic_room" d="M473.5 139.5H544.5V276.5H473.5V139.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Music_room" d="M416.5 15.5L545.145 15.5V138.972H416.5V15.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_3" d="M490.5 313.5H545.5V352.5H490.5V313.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_4" d="M490.5 648.5H545.5V687.5H490.5V648.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC_MID3" d="M321.5 631.5H392.5V773.5H321.5V631.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="3FSOU_bldg">
+<path id="3FSOU_bldg_2" d="M846 12L986 12V841H846V12Z" fill="#E5E5E5"/>
+<path id="Lecture_room" d="M909.128 354.567H985.128V455.567H909.128V354.567Z" fill="#FDFFCC" stroke="black"/>
+<path id="1-3" d="M909.5 456.5H985.5V560.5H909.5V456.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="1-2" d="M909.5 561.5H985.5V665.5H909.5V561.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="1-1" d="M909.128 747.815H980.428V840.05H909.128V747.815Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_5" d="M930.5 316.5H985.5V355.5H930.5V316.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_6" d="M925.5 707.5H980.5V746.5H925.5V707.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WCSOU3" d="M741.5 678.5H842.5V727.5H741.5V678.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="Corridor">
+<path d="M293.998 277H415.998V373H293.998V277Z" fill="#D9D9D9"/>
+<path d="M547.998 277H843.998V353H547.998V277Z" fill="#D9D9D9"/>
+</g>
+</svg>

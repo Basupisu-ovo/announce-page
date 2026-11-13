@@ -1,0 +1,59 @@
+<svg width="1590" height="1608" viewBox="0 0 1590 1608" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1590" height="1608" fill="#F5F5F5"/>
+<path id="Gym" d="M949.5 1195.5H1589.51V1607.38H949.5V1195.5Z" fill="#FDFFCC" stroke="black"/>
+<g id="2FNOR_bldg">
+<path id="2FNOR_bldg_2" d="M298 621H164V1208H0V399H298V621Z" fill="#E5E5E5"/>
+<path id="Stairs" d="M211.5 530.5H297.5V610.5H211.5V530.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_2" d="M90.5 1122.5V1045.5H157.5V1122.5H90.5Z" fill="#FFAC11" stroke="black"/>
+<path id="MainStaff_room" d="M85.5 809.5H157.5V1044.5H85.5V809.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Printing_room" d="M85.5 745.5H157.5V808.5H85.5V745.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Interview_room" d="M85.5 682.5H157.5V744.5H85.5V682.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="SmallConference_room" d="M85.8 614.5H157.101V682.461H85.8V614.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="LargeConference_room" d="M85.5 530.5H210.5V610.5H85.5V530.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="WC(Staff)" d="M0.5 1045.5H47.5V1122.5H0.5L0.5 1045.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="2FMID_bldg">
+<path id="2FMID_bldg_2" d="M416 176H546V1005H416V176Z" fill="#E5E5E5"/>
+<path id="3-1" d="M473.5 849.5H544.8V934.707H473.5V849.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="3-2" d="M473.5 690.5H544.5V779.5H473.5V690.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="3-3" d="M473.5 600.5H544.5V689.5H473.5V600.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Lecture_roomB" d="M473.5 514.5H544.8V599.707H473.5V514.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="PhysicsStaff_room" d="M473.5 300.5H544.5V437.5H473.5V300.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Physics_room" d="M416.5 176.5H545.145V299.972H416.5V176.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="ClubActivitiesSupport_room" d="M385.5 1051.5H561.353V1160.15H385.5V1051.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_3" d="M490.5 474.5H545.5V513.5H490.5V474.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_4" d="M490.5 809.5H545.5V848.5H490.5V809.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC" d="M321.5 792.5H392.5V934.5H321.5V792.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="2FSOU_bldg">
+<path id="2FSOU_bldg_2" d="M846 173H986V1002H846V173Z" fill="#E5E5E5"/>
+<path id="Library" d="M845.5 173.5H985.5V372.5H845.5V173.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Lecture_roomD" d="M909.128 515.567H985.128V616.567H909.128V515.567Z" fill="#FDFFCC" stroke="black"/>
+<path id="1-6" d="M909.5 617.5H985.5V721.5H909.5V617.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="1-5" d="M909.5 722.5H985.5V826.5H909.5V722.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="1-4" d="M909.128 908.815H980.428V1001.05H909.128V908.815Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_5" d="M930.5 477.5H985.5V516.5H930.5V477.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_6" d="M925.5 868.5H980.5V907.5H925.5V868.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC_2" d="M741.5 839.5H842.5V888.5H741.5V839.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="2FSpecialClassrooms_bldg">
+<path id="2FSpecialClassrooms_bldg_2" d="M1168 0L1314 0V1049H1168V0Z" fill="#E5E5E5"/>
+<path id="Biology_Lab" d="M1227.5 905.5H1313.9V1048.28H1227.5V905.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="BiologyPrep_room" d="M1279.5 806.5H1313.5V903.5H1279.5V806.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="BiologyStaff_room" d="M1279.5 806.5H1313.5V904.5H1279.5V806.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="BiologyLecture_room" d="M1227.5 661.5H1313.9V804.276H1227.5V661.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Prep_room2" d="M1227.5 144.5H1313.5V211.5H1227.5V144.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Multipurpose_room" d="M1227.5 389.035H1313.9V531.811H1227.5V389.035Z" fill="#FDFFCC" stroke="black"/>
+<path id="JapaneseStyle_room" d="M1227.5 212.5H1313.5V388.5H1227.5V212.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Sewing_room" d="M1227.5 0.5L1313.9 0.5V143.276H1227.5V0.5Z" fill="#FDFFCC" stroke="black"/>
+<path id="Stairs_7" d="M1227.5 903.5V848.5H1266.5V903.5H1227.5Z" fill="#FFAC11" stroke="black"/>
+<path id="Stairs_8" d="M1231.5 574.5V532.5H1313.5V574.5H1231.5Z" fill="#FFAC11" stroke="black"/>
+<path id="WC_3" d="M1191.5 590.5H1313.5V646.5H1191.5V590.5Z" fill="#ABF8FF" stroke="black"/>
+</g>
+<g id="Corridor">
+<path d="M293.998 438H415.998V534H293.998V438Z" fill="#D9D9D9"/>
+<path d="M547.998 438H843.998V514H547.998V438Z" fill="#D9D9D9"/>
+<path d="M843.998 1002H980V1095.5H843.998V1002Z" fill="#D9D9D9"/>
+<path d="M980 1002H1055.5V1198H980V1002Z" fill="#D9D9D9"/>
+</g>
+</svg>
